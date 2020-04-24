@@ -1,1 +1,5 @@
 **README**
+
+NOTE:-
+job_queue.cpp -> naive approach
+new_job_queue.cpp -> priority queue
